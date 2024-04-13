@@ -1,9 +1,6 @@
 
 # CRUD-Operations on MySQL Database
 
-* a custom login page using Sprin security 
-
-
 ## Introduction
 
 This project is a backend application built using Spring Boot. It implements CRUD (Create, Read, Update, Delete) operations for managing data. The application is designed to serve as a RESTful API to interact with a database.
